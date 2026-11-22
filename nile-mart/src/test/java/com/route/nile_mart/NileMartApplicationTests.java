@@ -1,0 +1,13 @@
+package com.route.nile_mart;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NileMartApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
